@@ -6,5 +6,5 @@ rem Some syntax
 rem http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/cmd.mspx?mfr=true
 rem 
 
-cmd.exe /k "SET PATH=%CD%\MinGW\msys\1.0\bin;%CD%\MinGW\bin;%PATH%"
+cmd.exe /t:02 /k "SET PATH=%CD%\MinGW\msys\1.0\bin;%CD%\MinGW\bin;%PATH%"
 

@@ -2,7 +2,7 @@
 
 A preconfigured MinGW setup for compiling openFrameworks applications and 3rd party libraries (via openFrameworks' Apothecary scripts).
 
-It is also used as the toolchain for ofSketch on windows.
+It is also used as the toolchain for [ofSketch](https://github.com/olab-io/ofSketch) on Windows.
 
 
 # How was it made?
@@ -24,3 +24,8 @@ Double click ofMinGW.bat.
 
 This will give you a command prompt with the paths set correctly to compile using GCC / MinGW.
 
+
+# It doesn't seem to work.
+
+
+It has been tested extensively on Windows 8.1.  For all other platforms, please submit an issue in the repository.
