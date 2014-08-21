@@ -1,3 +1,13 @@
+# What is this?
+
+A preconfigured MinGW setup for compiling openFrameworks applications and 3rd party libraries (via openFrameworks' Apothecary scripts).
+
+It is also used as the toolchain for ofSketch on windows.
+
+
+# How was it made?
+
+
 This folder is created by following the instructions here:
 
 https://hackpad.com/MinGW-MSYS-openFrameworks-Setup-GuhEod9okeN
@@ -7,7 +17,10 @@ Then:
 - Copy the MinGW folder from codeblocks 12.11 into this directory.
 - Copy the msys folder from C:\MinGW into this directory.
 
+# How do I use it?
 
-TO use this "toolchain":
 
 Double click ofMinGW.bat.
+
+This will give you a command prompt with the paths set correctly to compile using GCC / MinGW.
+
