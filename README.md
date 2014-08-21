@@ -16,6 +16,7 @@ Then:
 
 - Copy the MinGW folder from codeblocks 12.11 into this directory.
 - Copy the msys folder from C:\MinGW into this directory.
+- Then download the git-bash tools and take the curl.exe and curl-ca-bundle in the MinGW bin dir.
 
 # How do I use it?
 
