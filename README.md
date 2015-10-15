@@ -29,4 +29,4 @@ This will give you a command prompt with the paths set correctly to compile usin
 # It doesn't seem to work.
 
 
-It has been tested extensively on Windows 8.1.  For all other platforms, please submit an issue in the repository.
+It has been tested extensively on Windows 7, 8, 8.1 and 10 with openFrameworks 0.8.4.  For all other platforms, please submit an issue in the repository.
